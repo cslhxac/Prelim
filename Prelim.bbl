@@ -1,0 +1,275 @@
+\begin{thebibliography}{10}
+
+\bibitem{baldwin2012dynamic}
+Mark~A Baldwin, Chadd~W Clary, Clare~K Fitzpatrick, James~S Deacy, Lorin~P
+  Maletsky, and Paul~J Rullkoetter.
+\newblock Dynamic finite element knee simulation for evaluation of knee
+  replacement mechanics.
+\newblock {\em Journal of Biomechanics}, 45(3):474--483, 2012.
+
+\bibitem{tepole2014computational}
+Adri{\'a}n~Buganza Tepole, Arun~K Gosain, and Ellen Kuhl.
+\newblock Computational modeling of skin: Using stress profiles as predictor
+  for tissue necrosis in reconstructive surgery.
+\newblock {\em Computers \& structures}, 143:32--39, 2014.
+
+\bibitem{rausch2016virtual}
+Manuel~K Rausch, Alexander~M Z{\"o}llner, Martin Genet, Brian Baillargeon,
+  Wolfgang Bothe, and E~Kuhl.
+\newblock A virtual sizing tool for mitral valve annuloplasty.
+\newblock {\em International journal for numerical methods in biomedical
+  engineering}, 2016.
+
+\bibitem{holzapfel2001biomechanics}
+Gerhard~A Holzapfel.
+\newblock Biomechanics of soft tissue.
+\newblock {\em The handbook of materials behavior models}, 3:1049--1063, 2001.
+
+\bibitem{lanir1974two}
+Y~Lanir and YC~Fung.
+\newblock Two-dimensional mechanical properties of rabbit skin-ii. experimental
+  results.
+\newblock {\em Journal of biomechanics}, 7(2):171IN9175--174182, 1974.
+
+\bibitem{mow1980biphasic}
+Van~C Mow, SC~Kuei, W~Michael Lai, Cecil~G Armstrong, et~al.
+\newblock Biphasic creep and stress relaxation of articular cartilage in
+  compression: theory and experiments.
+\newblock {\em J Biomech Eng}, 102(1):73--84, 1980.
+
+\bibitem{maas2012febio}
+Steve~A Maas, Benjamin~J Ellis, Gerard~A Ateshian, and Jeffrey~A Weiss.
+\newblock Febio: finite elements for biomechanics.
+\newblock {\em Journal of biomechanical engineering}, 134(1):011005, 2012.
+
+\bibitem{hibbitt2001abaqus}
+Hibbitt, Karlsson, and Sorensen.
+\newblock {\em ABAQUS/standard User's Manual}, volume~1.
+\newblock Hibbitt, Karlsson \& Sorensen, 2001.
+
+\bibitem{mcadams2011efficient}
+Aleka McAdams, Yongning Zhu, Andrew Selle, Mark Empey, Rasmus Tamstorf, Joseph
+  Teran, and Eftychios Sifakis.
+\newblock Efficient elasticity for character skinning with contact and
+  collisions.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, volume~30, page~37. ACM,
+  2011.
+
+\bibitem{brown2001real}
+Joel Brown, Stephen Sorkin, Cynthia Bruyns, J-C Latombe, Kevin Montgomery, and
+  Michael Stephanides.
+\newblock Real-time simulation of deformable objects: Tools and application.
+\newblock In {\em Computer Animation, 2001. The Fourteenth Conference on
+  Computer Animation. Proceedings}, pages 228--258. IEEE, 2001.
+
+\bibitem{mollemans2003tetrahedral}
+Wouter Mollemans, Filip Schutyser, Johan Van~Cleynenbreugel, and Paul Suetens.
+\newblock Tetrahedral mass spring model for fast soft tissue deformation.
+\newblock In {\em IS4TH}, pages 145--154. Springer, 2003.
+
+\bibitem{taylor2008high}
+Zeike~A Taylor, Mario Cheng, and S{\'e}bastien Ourselin.
+\newblock High-speed nonlinear finite element analysis for surgical simulation
+  using graphics processing units.
+\newblock {\em IEEE transactions on medical imaging}, 27(5):650--663, 2008.
+
+\bibitem{lapeer2011hyperelastic}
+Rudy~J Lapeer, Paul~D Gasson, and Vasudev Karri.
+\newblock A hyperelastic finite-element model of human skin for interactive
+  real-time surgical simulation.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 58(4):1013--1022,
+  2011.
+
+\bibitem{mitchell2015gridiron}
+Nathan Mitchell, Eftychios Sifakis, et~al.
+\newblock Gridiron: An interactive authoring and cognitive training foundation
+  for reconstructive plastic surgery procedures.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 34(4):43, 2015.
+
+\bibitem{kozlov2017enriching}
+Yeara Kozlov, Derek Bradley, Moritz B{\"a}cher, Bernhard Thomaszewski, Thabo
+  Beeler, and Markus Gross.
+\newblock Enriching facial blendshape rigs with physical simulation.
+\newblock In {\em Computer Graphics Forum}, volume~36, pages 75--84. Wiley
+  Online Library, 2017.
+
+\bibitem{sifakis2005automatic}
+Eftychios Sifakis, Igor Neverov, and Ronald Fedkiw.
+\newblock Automatic determination of facial muscle activations from sparse
+  motion capture marker data.
+\newblock In {\em Acm transactions on graphics (tog)}, volume~24, pages
+  417--425. ACM, 2005.
+
+\bibitem{vaillant2014robust}
+Rodolphe Vaillant, G{\"a}el Guennebaud, Lo{\"\i}c Barthe, Brian Wyvill, and
+  Marie-Paule Cani.
+\newblock Robust iso-surface tracking for interactive character skinning.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 33(6):189, 2014.
+
+\bibitem{milne2016flesh}
+Andy Milne, Mark McLaughlin, Rasmus Tamstorf, Alexey Stomakhin, Nicholas
+  Burkard, Mitch Counsell, Jesus Canal, David Komorowski, and Evan Goldberg.
+\newblock Flesh, flab, and fascia simulation on zootopia.
+\newblock In {\em ACM SIGGRAPH 2016 Talks}, page~34. ACM, 2016.
+
+\bibitem{belytschko2003structured}
+Ted Belytschko, Chandu Parimi, Nicolas Mo{\"e}s, N~Sukumar, and Shuji Usui.
+\newblock Structured extended finite element methods for solids defined by
+  implicit surfaces.
+\newblock {\em International journal for numerical methods in engineering},
+  56(4):609--635, 2003.
+
+\bibitem{kumar2008implicit}
+Ashok~V Kumar, Sanjeev Padmanabhan, and Ravi Burla.
+\newblock Implicit boundary method for finite element analysis using
+  non-conforming mesh or grid.
+\newblock {\em International Journal for Numerical Methods in Engineering},
+  74(9):1421--1447, 2008.
+
+\bibitem{zhu2012second}
+Yongning Zhu, Yuting Wang, Jeffrey Hellrung, Alejandro Cantarero, Eftychios
+  Sifakis, and Joseph~M Teran.
+\newblock A second-order virtual node algorithm for nearly incompressible
+  linear elasticity in irregular domains.
+\newblock {\em Journal of Computational Physics}, 231(21):7092--7117, 2012.
+
+\bibitem{patterson2012simulation}
+Taylor Patterson, Nathan Mitchell, and Eftychios Sifakis.
+\newblock Simulation of complex nonlinear elastic bodies using lattice
+  deformers.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 31(6):197, 2012.
+
+\bibitem{mitchell2015non}
+Nathan Mitchell, Mridul Aanjaneya, Rajsekhar Setaluri, and Eftychios Sifakis.
+\newblock Non-manifold level sets: A multivalued implicit surface
+  representation with applications to self-collision processing.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 34(6):247, 2015.
+
+\bibitem{setaluri2014spgrid}
+Rajsekhar Setaluri, Mridul Aanjaneya, Sean Bauer, and Eftychios Sifakis.
+\newblock Spgrid: A sparse paged grid structure applied to adaptive smoke
+  simulation.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 33(6):205, 2014.
+
+\bibitem{delingette1999hybrid}
+Herv{\'e} Delingette, St{\'e}phane Cotin, and Nicholas Ayache.
+\newblock A hybrid elastic model allowing real-time cutting, deformations and
+  force-feedback for surgery training and simulation.
+\newblock In {\em Computer Animation, 1999. Proceedings}, pages 70--81. IEEE,
+  1999.
+
+\bibitem{sifakis2007arbitrary}
+Eftychios Sifakis, Kevin~G Der, and Ronald Fedkiw.
+\newblock Arbitrary cutting of deformable tetrahedralized objects.
+\newblock In {\em Proceedings of the 2007 ACM SIGGRAPH/Eurographics symposium
+  on Computer animation}, pages 73--80. Eurographics Association, 2007.
+
+\bibitem{wang2014adaptive}
+Yuting Wang, Chenfanfu Jiang, Craig Schroeder, and Joseph Teran.
+\newblock An adaptive virtual node algorithm with robust mesh cutting.
+\newblock In {\em Proceedings of the ACM SIGGRAPH/Eurographics Symposium on
+  Computer Animation}, pages 77--85. Eurographics Association, 2014.
+
+\bibitem{molino2005virtual}
+Neil Molino, Zhaosheng Bao, and Ron Fedkiw.
+\newblock A virtual node algorithm for changing mesh topology during
+  simulation.
+\newblock In {\em ACM SIGGRAPH 2005 Courses}, page~4. ACM, 2005.
+
+\bibitem{kaufmann2009flexible}
+Peter Kaufmann, Sebastian Martin, Mario Botsch, and Markus Gross.
+\newblock Flexible simulation of deformable models using discontinuous galerkin
+  fem.
+\newblock {\em Graphical Models}, 71(4):153--167, 2009.
+
+\bibitem{jevrabkova2009stable}
+Lenka Je{\v{r}}{\'a}bkov{\'a} and Torsten Kuhlen.
+\newblock Stable cutting of deformable objects in virtual environments using
+  xfem.
+\newblock {\em IEEE computer graphics and applications}, 29(2):61--71, 2009.
+
+\bibitem{dolbow1999finite}
+JOHN Dolbow and Ted Belytschko.
+\newblock A finite element method for crack growth without remeshing.
+\newblock {\em International journal for numerical methods in engineering},
+  46(1):131--150, 1999.
+
+\bibitem{bischoff2000finite}
+Jeffrey~E Bischoff, Ellen~M Arruda, and Karl Grosh.
+\newblock Finite element modeling of human skin using an isotropic, nonlinear
+  elastic constitutive model.
+\newblock {\em Journal of biomechanics}, 33(6):645--652, 2000.
+
+\bibitem{arruda1993three}
+Ellen~M Arruda and Mary~C Boyce.
+\newblock A three-dimensional constitutive model for the large stretch behavior
+  of rubber elastic materials.
+\newblock {\em Journal of the Mechanics and Physics of Solids}, 41(2):389--412,
+  1993.
+
+\bibitem{delalleau2006characterization}
+Alexandre Delalleau, Gwendal Josse, Jean-Michel Lagarde, Hassan Zahouani, and
+  Jean-Michel Bergheau.
+\newblock Characterization of the mechanical properties of skin by inverse
+  analysis combined with the indentation test.
+\newblock {\em Journal of biomechanics}, 39(9):1603--1610, 2006.
+
+\bibitem{sun2005finite}
+Wei Sun and Michael~S Sacks.
+\newblock Finite element implementation of a generalized fung-elastic
+  constitutive model for planar soft tissues.
+\newblock {\em Biomechanics and modeling in mechanobiology}, 4(2-3):190--199,
+  2005.
+
+\bibitem{gasser2006hyperelastic}
+T~Christian Gasser, Ray~W Ogden, and Gerhard~A Holzapfel.
+\newblock Hyperelastic modelling of arterial layers with distributed collagen
+  fibre orientations.
+\newblock {\em Journal of the royal society interface}, 3(6):15--35, 2006.
+
+\bibitem{martins2006comparative}
+PALS Martins, RM~Natal~Jorge, and AJM Ferreira.
+\newblock A comparative study of several material models for prediction of
+  hyperelastic properties: Application to silicone-rubber and soft tissues.
+\newblock {\em Strain}, 42(3):135--147, 2006.
+
+\bibitem{liu2016scalable}
+Haixiang Liu, Nathan Mitchell, Mridul Aanjaneya, and Eftychios Sifakis.
+\newblock A scalable schur-complement fluids solver for heterogeneous compute
+  platforms.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 35(6):201, 2016.
+
+\bibitem{mcadams2010parallel}
+Aleka McAdams, Eftychios Sifakis, and Joseph Teran.
+\newblock A parallel multigrid poisson solver for fluids simulation on large
+  grids.
+\newblock In {\em Proceedings of the 2010 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, pages 65--74. Eurographics Association, 2010.
+
+\bibitem{aanjaneya2017power}
+Mridul Aanjaneya, Ming Gao, Haixiang Liu, Christopher Batty, and Eftychios
+  Sifakis.
+\newblock Power diagrams and sparse paged grids for high resolution adaptive
+  liquids.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 36(4):140, 2017.
+
+\bibitem{losasso2004simulating}
+Frank Losasso, Fr{\'e}d{\'e}ric Gibou, and Ron Fedkiw.
+\newblock Simulating water and smoke with an octree data structure.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, volume~23, pages
+  457--462. ACM, 2004.
+
+\bibitem{losasso2006spatially}
+Frank Losasso, Ronald Fedkiw, and Stanley Osher.
+\newblock Spatially adaptive techniques for level set methods and
+  incompressible flow.
+\newblock {\em Computers \& Fluids}, 35(10):995--1010, 2006.
+
+\bibitem{de2015power}
+Fernando de~Goes, Corentin Wallez, Jin Huang, Dmitry Pavlov, and Mathieu
+  Desbrun.
+\newblock Power particles: an incompressible fluid solver based on power
+  diagrams.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 34(4):50, 2015.
+
+\end{thebibliography}

@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Prelim.aux
+The style file: unsrt.bst
+Database file #1: ref.bib
+Warning--can't use both volume and number fields in mcadams2011efficient
+Warning--can't use both volume and number fields in kozlov2017enriching
+Warning--can't use both volume and number fields in sifakis2005automatic
+Warning--can't use both volume and number fields in losasso2004simulating
+You've used 43 entries,
+            1791 wiz_defined-function locations,
+            704 strings with 12525 characters,
+and the built_in function-call counts, 11964 in all, are:
+= -- 1079
+> -- 583
+< -- 17
++ -- 209
+- -- 166
+* -- 929
+:= -- 1853
+add.period$ -- 141
+call.type$ -- 43
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 507
+empty$ -- 1115
+format.name$ -- 166
+if$ -- 2679
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 44
+newline$ -- 218
+num.names$ -- 43
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 230
+stack$ -- 0
+substring$ -- 878
+swap$ -- 148
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 122
+width$ -- 45
+write$ -- 490
+(There were 4 warnings)
