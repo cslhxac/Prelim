@@ -50,8 +50,6 @@ Using non-conforming mesh, specifically surface embedding in a structured Cartes
 
 Another problem that rises with non-conforming mesh is embedding thin cuts in elements. Standard non-conforming mesh assumes continuity within element, while thin cuts within element would break such assumption. To overcome this issue method such as non-manifold level set representation of implicit surface combining with cut cell \cite{mitchell2015non} has been proposed.
 
-(Still need to say something about meshless method (Or not....))
-
  \subsubsection*{Possible solutions}
  
 For the reason of efficiency, I will focus on simulation in non-conforming mesh based methods using a regular Cartesian background grid. In \cite{setaluri2014spgrid}, Setaluri et al. proposed a novel data structure that utilizes the virtual memory system for efficient storage of sparse and adaptive grid data. It will be the primary data structure for storage. The adaptivity provided by SPGrid can also enable capturing high resolution and more local details. 
@@ -132,9 +130,12 @@ The work \cite{aanjaneya2017power} presented a 2nd order adaptive scheme for liq
 
 \subsubsection*{Efficient Elasticity for Character Flesh Simulation on Octrees}
 
-This is the project I was working on during my internship with Disney Animation Studio in the summer of 2016. It is currently under review of ACM Transactions on Graphics(?IS IT?). In this project, we extended the work\cite{mcadams2011efficient} by Mcadams et al. to using a adaptive grid for flesh simulation. In an animation production setting, the visual interests usually lies only on the surface. High resolution details underneath the surface are very costly to simulate and adds very little visual detail to the resulting character. We used a balanced linear octree as our main data structure. 
+This is the project I was working on during my internship with Disney Animation Studio in the summer of 2016. In this project, we extended the work\cite{mcadams2011efficient} by Mcadams et al. to using a adaptive grid for flesh simulation. In an animation production setting, the visual interests usually lies only on the surface. High resolution details underneath the surface are very costly to simulate and adds very little visual detail to the resulting character. We used a balanced linear octree as our main data structure, and developed parallel algorithms for multigrid solver, collision detection, and varies time integration schemes.
 
 \section{Research Plan}
+
+\subsection*{Framework development}
+
 
 \bibliographystyle{unsrt}
 \bibliography{ref}
